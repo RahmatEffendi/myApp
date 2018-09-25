@@ -1,0 +1,2 @@
+# myApp
+Leaning Ionic
